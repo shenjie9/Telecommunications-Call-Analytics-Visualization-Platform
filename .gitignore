@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Personal reference documents
+private/
+
+# Logs
+*.log
